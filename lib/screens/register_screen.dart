@@ -158,7 +158,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                       _buildField(
                         controller: nameController,
                         label: 'Full name',
-                        hint: 'Siti Aishah',
+                        hint: 'Your Name',
                         icon: Icons.person_outline,
                         capitalization: TextCapitalization.words,
                         validator: (v) {
