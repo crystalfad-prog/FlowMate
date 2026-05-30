@@ -6,7 +6,7 @@ class AuthService {
   // Register User
   Future<User?> register({
     required String email,
-    required String password,
+    required String password, required String displayName,
   }) async {
     try {
       UserCredential userCredential =

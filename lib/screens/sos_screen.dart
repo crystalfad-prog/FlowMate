@@ -325,10 +325,10 @@ class _SosScreenState extends State<SosScreen> {
                 _actionCard(
                   icon: Icons.phone,
                   label: 'Call clinic',
-                  sub: 'UTM health centre',
+                  sub: 'UNIMAS Pusat Kesihatan Prima',
                   color: const Color(0xFFE1F5EE),
                   iconColor: const Color(0xFF085041),
-                  onTap: () => _callContact('UTM Health Centre', '+60139876543'),
+                  onTap: () => _callContact('UNIMAS PKU', '082-581 604'),
                 ),
                 _actionCard(
                   icon: Icons.people,
