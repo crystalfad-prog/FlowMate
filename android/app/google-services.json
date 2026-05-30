@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367279364746",
+    "project_id": "flowmate-6c80d",
+    "storage_bucket": "flowmate-6c80d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367279364746:android:8086f9e1cec99705ceeb73",
+        "android_client_info": {
+          "package_name": "com.example.flowmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367279364746-l8j8min372o45pblaqtfg1kgab07f37a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhdZ9MMgwwSK1DUaplbCi6Q9Zt6fxrB3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367279364746-l8j8min372o45pblaqtfg1kgab07f37a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
